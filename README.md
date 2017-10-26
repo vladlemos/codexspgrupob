@@ -1,4 +1,4 @@
-# codexspgrupob
+# CodexSP Grupo B
 Repositório de atividades de HTML5 + CSS3 realizada em Grupo projeto CODE EXPERIENCE SENAI/SP: Mara, Marina, Rodrigo e Vladimir.
 
 # Pasta Primeiro Projeto
