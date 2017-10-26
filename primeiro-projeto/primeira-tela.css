@@ -1,0 +1,67 @@
+html, body{
+	height: 100vh;
+	width: 100vw;
+}
+body{
+	box-sizing: border-box;
+	padding: 1em 1em 0;
+	margin: 0;
+	padding: 0;
+	background-image: url("home1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%; /*largura e altura*/
+}
+
+/*Imagem do coração*/
+.logo{
+	margin: 0 auto;
+	max-width: 200px; /* diz que a caixa figura terá no maximo o comprimento de 200px*/
+}
+.logo img{
+	margin-top: 73%;
+	width: 100%; /*dis que a img tem o comprimento 100% do pai*/
+}
+
+/*Texto heartlink*/
+.titulo-principal{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	margin-top: 1rem;
+}
+.titulo-principal p{
+	display: inline;
+}
+.titulo-principal__p2{
+	margin-left: -8px;
+	font-weight: bold;
+}
+
+/*Botões de acesso*/
+.acesso button {
+    box-sizing: border-box;
+    display: block;
+    border-radius: 20px;
+    padding: 10px 70px;
+    text-transform: uppercase;
+    font-style: bold;
+    border: none;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid white;
+}
+.acesso__botao1 {
+    color: #fff;
+    border-color: #fff;
+    background-color: rgba(255, 0, 0, 0.53); /*use rgba quando usar transparencia para funcionar no Chrome*/
+    margin-top: 13em; /*107px*/
+}
+.acesso__botao2 {
+    border: none;
+    color: red;
+    background-color: #fff;
+    margin-top: 1em;
+}
+.link{
+	text-decoration: none;
+}
