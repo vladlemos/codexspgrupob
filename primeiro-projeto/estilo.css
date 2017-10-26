@@ -1,0 +1,17 @@
+.cabecalho{
+	position: fixed;
+	height: 30px;
+	width: 100%;
+	padding: 20px;
+	background-color: yellow;
+	
+}
+.cabecalho li{
+	display: inline;
+}
+.conteudo-principal{
+	position: relative;
+	top: 70px;
+	padding: 20px;
+	border: 2px solid red;
+}

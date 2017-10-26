@@ -1,0 +1,207 @@
+
+html{
+	margin: 0;
+	padding: 0;
+	background-image: url("image.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100vh;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background:none;
+	font-family:'Roboto', arial, verdana, sans-serif;
+	
+
+}
+section{
+	/*argin-left: 25%;*/
+	margin-top: 5%;
+	width: 100%;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+
+section hr{
+	box-sizing: border-box;
+	margin-left: 50%; 
+	border:solid 2px background-color: rgba(255, 255, 255, 0);
+	width: 50%;
+	margin-left: 25%;
+	background-color: rgba(0, 255, 255, 0);
+
+}
+
+.section-p{
+	box-sizing: border-box;	
+	margin-top: -20px;
+	background-color: white;	
+	text-align: center;
+	width: 25%;
+	margin-left:38%;
+	border-radius: 20px;
+}
+
+.logotipo{
+
+	box-sizing: border-box;
+	display: block;
+	max-height: 100px;
+	max-width: 100px;
+	margin: 0 auto;
+	margin-top: 5%;
+	width: 100%;
+}
+
+.formulario{
+	margin-top: 15%;
+}
+
+
+
+.login-label{
+	
+	box-sizing: border-box;
+	display: block;
+	margin-left: 25%;
+	padding: 5px;
+	color: red;
+	font-size: 0.8em;
+	text-transform: uppercase;
+
+}
+
+.login-input{
+
+	margin-bottom: 5px;
+	box-sizing: border-box;
+	display: block;
+	margin-left: 25%;
+	padding: 5px;
+	border: none;
+	border-bottom: 2px solid red;
+	width: 50%;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.esquece-senha{
+
+	box-sizing: border-box;
+	display: block;
+	margin-left: 25%;
+	padding: 5px;
+	width: 50%;
+	text-decoration: none;
+	text-align: right;
+	font-style: bold;
+	color: black;
+	margin-bottom:3em;  
+}
+
+
+/*
+.login-botao-cheio{
+
+
+	box-sizing: border-box;
+	margin-top: 5px;
+	width: 50%;
+	margin-left: 25%;
+	
+	color:red;
+	background-color:#fff;
+	
+	border:none;
+	border-radius: 20px;
+	text-transform: uppercase;
+	padding: 10px 70px;
+	font-style: bold;
+	
+}
+*/
+
+.acesso-button{
+  	display: block;
+	border-radius: 20px;
+	margin: 20px;
+	padding: 10px 70px;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+}
+
+.acesso-vazio{
+	color: white;
+	border-color: white;
+	background-color: red;
+}
+
+.acesso-cheio{
+
+	border:none;
+	color: red;
+	background-color: white;
+	width: 50%;
+	margin-left: 25%;
+}
+
+
+
+
+
+/*CSS -  Icones das redes sociais */
+
+.acesso-facebook {
+  
+
+  width: 30px;
+  color: white;
+  border: 1px solid blue;
+  text-decoration: none;
+  background-color: blue;
+  
+}
+
+.acesso-gmail {
+  
+  /*margin-left: 20%;*/
+  width: 30px;
+  color: white;
+  border: 1px solid red;
+  text-decoration: none;
+  background-color: red;
+  
+}
+
+.icones-sociais {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+
+}
+
+.icones-sociais li{
+
+  list-style: none;
+  display: inline-block;
+  
+
+}
+
+.icones-sociais li a{
+
+min-width: 18em;
+font-size:  0.8em;
+padding-top: 1em ;
+
+
+}
+
+
+.fa{
+  margin: 0;
+}
+
