@@ -1,5 +1,5 @@
 # codexspgrupob
-Repositório de atividades de HTML5 + CSS3
+Repositório de atividades de HTML5 + CSS3 realizada em Grupo projeto CODE EXPERIENCE SENAI/SP: Mara, Marina, Rodrigo e Vladimir.
 
 # Pasta Primeiro Projeto
 Atividade finalizada em 25/10 com desenho de telas de aplicação mobile.
